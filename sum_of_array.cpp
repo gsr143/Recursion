@@ -19,7 +19,7 @@ Sample Output 2 :
 7
 */
 #include<iostream>
-#include "Solution.h"
+
 using namespace std;
 
 int sum(int input[], int n) {
